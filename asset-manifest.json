@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Price-Calculator/static/css/main.a0717081.css",
+    "main.js": "/Price-Calculator/static/js/main.69732d5d.js",
+    "index.html": "/Price-Calculator/index.html",
+    "main.a0717081.css.map": "/Price-Calculator/static/css/main.a0717081.css.map",
+    "main.69732d5d.js.map": "/Price-Calculator/static/js/main.69732d5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0717081.css",
+    "static/js/main.69732d5d.js"
+  ]
+}
